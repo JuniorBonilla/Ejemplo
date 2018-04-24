@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 AIzaSyA0AF7zn1acajN8BCxBSi_cwC9PDk7OFkkg8k :v
+=======
+AIzaSyA0AF7zn1acajN8BCxBSi_cwC9PDk7OF8k :v
+cambio1
+Cambio2
+>>>>>>> hola
